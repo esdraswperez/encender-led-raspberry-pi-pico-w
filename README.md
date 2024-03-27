@@ -1,5 +1,3 @@
-![UMG logo](https://logotipoz.com/wp-content/uploads/2022/11/mariano-galves-sin-fondo-1.webp "Logo de UMG")
-
 # Practica 1: Encender un LED con Raspberry Pi Pico W
 ### Universidad Mariano Gálvez de Guatemala
 ### Ingeniería en Sistemas
